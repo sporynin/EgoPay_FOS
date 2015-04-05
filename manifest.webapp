@@ -1,0 +1,13 @@
+{
+  "name": "EgoPay",
+  "description": "QR Payment",
+  "launch_path": "/index.html",
+  "developer": {
+    "name": "Yuriy Sporynin",
+    "url": "http://ips.su"
+  },
+  "icons": {
+    "128": "",
+    "64": ""
+  }
+}
